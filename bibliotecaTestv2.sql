@@ -1,7 +1,7 @@
 -- this is a comment
 create database biblioteca;
 
--- get the database
+-- select the database
 use biblioteca;
 
 -- --------------------------------
