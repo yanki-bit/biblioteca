@@ -170,7 +170,3 @@ WHERE userID IN
 	(SELECT userID
 	FROM Record
 	WHERE returnDate IS NULL AND issueDate < CURRENT_DATE());
-
-    
-
-kkkkk
